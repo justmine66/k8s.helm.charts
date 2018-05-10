@@ -9,7 +9,7 @@ create and publish docs like this:
 ```console
 $ helm create mychart
 $ helm package mychart
-$ mv mychart-0.1.0.tgz docs
+$ mv light-0.0.0.tar.gz docs
 $ helm repo index docs --url https://justmine66.github.io/k8s.helm.charts
 $ git add -i
 $ git commit -av
