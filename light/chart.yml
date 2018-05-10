@@ -1,0 +1,10 @@
+name: light
+description: A service layer API project of the geekbuying
+version: 0.2.0
+tillerVersion: ">=2.4.0"
+keywords:
+  - geekbuying
+  - light
+maintainers:
+  - name: lijun 
+    email: lijun@geekbuy.com.cn
