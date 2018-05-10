@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  light:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-05-10T05:30:06.240679013-05:00
+    description: A Helm chart for Kubernetes
+    digest: 4DE214A648586D248770512B486FC997
+    name: light
+    urls:
+    - https://justmine66.github.io/k8s.helm.charts/light-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-05-10T05:30:06.240062416-05:00
