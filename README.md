@@ -16,5 +16,5 @@ $ git commit -av
 $ git push origin master
 ```
 
-From there, I can do a `helm repo add light https://justmine66.github.io/k8s.helm.charts/docs/light-0.1.0.tgz`
+From there, I can do a `helm repo add light https://justmine66.github.io/k8s.helm.charts`
 
