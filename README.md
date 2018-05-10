@@ -7,8 +7,8 @@ set up GitHub Pages to point to the `docs` folder. From there, I can
 create and publish docs like this:
 
 ```console
-$ helm create mychart
-$ helm package mychart
+$ helm create tschart
+$ helm package tschart
 $ mv light-0.0.0.tar.gz docs
 $ helm repo index docs --url https://justmine66.github.io/k8s.helm.charts
 $ git add -i
@@ -16,6 +16,6 @@ $ git commit -av
 $ git push origin master
 ```
 
-From there, I can do a `helm repo add tscharts
-https://justmine66.github.io/k8s.helm.charts
+From there, I can do a `helm repo add tscharts 
+https://justmine66.github.io/k8s.helm.charts`
 
